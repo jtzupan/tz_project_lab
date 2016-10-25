@@ -1,0 +1,3 @@
+Here we go with another document.
+This will also be used to learn about git.
+And here is the final line.

@@ -1,0 +1,3 @@
+this is my first document.
+It will be used to collaborate with others via git.
+This is a third line so that i have a third line.
