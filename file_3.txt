@@ -1,3 +1,6 @@
 this is the new file on the new branch.
 you guessed it, three lines.
 This will eventually be merged back with everything else.
+Adam Smith line 1
+Adam Smith line 2
+Adam Smith line 3
